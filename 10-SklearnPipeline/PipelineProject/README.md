@@ -20,7 +20,7 @@ A modern web application built with React and Node.js that predicts whether a pa
 ## Project Structure
 
 ```
-Pipeline/
+PipelineProject/
 ├── server.js              # Node.js/Express backend
 ├── predict.py             # Python script for model predictions
 ├── pipe.pkl               # Trained model file
