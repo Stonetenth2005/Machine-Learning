@@ -11,11 +11,11 @@ A modern web application built with React and Node.js that predicts whether a pa
 
 ## Features
 
-- 🎨 Modern, responsive UI with beautiful gradient design
-- 📊 Real-time probability visualization with animated progress bars
-- 🚀 Fast predictions using pre-trained machine learning model
-- 📱 Mobile-friendly interface
-- ⚡ Hot module replacement with Vite
+- Modern, responsive UI with beautiful gradient design
+- Real-time probability visualization with animated progress bars
+- Fast predictions using pre-trained machine learning model
+- Mobile-friendly interface
+- Hot module replacement with Vite
 
 ## Project Structure
 
